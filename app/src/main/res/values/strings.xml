@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MQMonitor Kiosk</string>
+    <string name="default_url">http://172.1.1.96/MQMonitor/</string>
+</resources>
